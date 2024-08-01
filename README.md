@@ -3,10 +3,8 @@
 
 <p align="center">
 I'm a 23-year-old Computer Science student at the University of Applied Science in Mannheim. Passionate about coding and innovation, I love turning ideas into reality through technology.
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 </p>
-
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ### ☕️ Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
