@@ -5,7 +5,6 @@
 I'm a 23-year-old Computer Science student at the University of Applied Science in Mannheim. Passionate about coding and innovation, I love turning ideas into reality through technology.
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### ☕️ Languages
 
@@ -75,3 +74,5 @@ I'm a 23-year-old Computer Science student at the University of Applied Science 
 
 ### Stats
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xXMestiXx&show_icons=true&theme=dracula)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
