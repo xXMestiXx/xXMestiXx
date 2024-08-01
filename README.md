@@ -1,12 +1,12 @@
 ## Hello, I'm Philipp Mestenhauser <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 
-
-I'm a 23-year-old Computer Science student at the University of Applied Science in Mannheim. Passionate about coding and innovation, I love turning ideas into reality through technology.
-
 <p align="center">
-  ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+I'm a 23-year-old Computer Science student at the University of Applied Science in Mannheim. Passionate about coding and innovation, I love turning ideas into reality through technology.
 </p>
+
+  ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### ☕️ Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
