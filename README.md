@@ -2,7 +2,7 @@
 
 
 <p align="center">
-I'm a 23-year-old Computer Science student at the University of Applied Science in Mannheim. Passionate about coding and innovation, I love turning ideas into reality through technology.
+I'm a 24-year-old Computer Science student at the University of Applied Science in Mannheim. Passionate about coding and innovation, I love turning ideas into reality through technology.
 </p>
 
 
